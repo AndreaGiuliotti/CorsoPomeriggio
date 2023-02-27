@@ -2,3 +2,7 @@ git add nomefile
 git commit -m
 git push -u origin main
 
+PER IL PULL
+git pull pippo main
+inserisci il messaggio per il merge
+git push -u pippo main
